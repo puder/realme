@@ -22,4 +22,5 @@
 // void Add${NameOfDirectory}Scripts()
 void AddCustomScripts()
 {
+void AddSC_welcomeOnFirstLogin();
 }
